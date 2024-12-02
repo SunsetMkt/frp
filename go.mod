@@ -15,8 +15,8 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.0
 	github.com/pion/stun/v2 v2.0.0
 	github.com/pires/go-proxyproto v0.7.0
-	github.com/prometheus/client_golang v1.19.0
-	github.com/quic-go/quic-go v0.42.0
+	github.com/prometheus/client_golang v1.19.1
+	github.com/quic-go/quic-go v0.48.2
 	github.com/rodaine/table v1.2.0
 	github.com/samber/lo v1.39.0
 	github.com/spf13/cobra v1.8.0
@@ -24,10 +24,10 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.1
 	github.com/xtaci/kcp-go/v5 v5.6.13
-	golang.org/x/crypto v0.22.0
-	golang.org/x/net v0.24.0
+	golang.org/x/crypto v0.26.0
+	golang.org/x/net v0.28.0
 	golang.org/x/oauth2 v0.16.0
-	golang.org/x/sync v0.6.0
+	golang.org/x/sync v0.8.0
 	golang.org/x/time v0.5.0
 	gopkg.in/ini.v1 v1.67.0
 	k8s.io/apimachinery v0.28.8
@@ -65,11 +65,11 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tjfoc/gmsm v1.4.1 // indirect
 	go.uber.org/mock v0.4.0 // indirect
-	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
-	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/tools v0.17.0 // indirect
+	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/sys v0.23.0 // indirect
+	golang.org/x/text v0.17.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
